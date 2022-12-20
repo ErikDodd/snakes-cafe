@@ -45,7 +45,7 @@
       <option name="presentableId" value="Default" />
       <updated>1671492770434</updated>
       <workItem from="1671492772478" duration="910000" />
-      <workItem from="1671494208867" duration="3400000" />
+      <workItem from="1671494208867" duration="4630000" />
     </task>
     <servers />
   </component>
@@ -53,6 +53,6 @@
     <option name="version" value="3" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/snakes_cafe$snakes_cafe.coverage" NAME="snakes_cafe Coverage Results" MODIFIED="1671497844702" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/snakes_cafe$snakes_cafe.coverage" NAME="snakes_cafe Coverage Results" MODIFIED="1671499040063" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
