@@ -19,10 +19,7 @@ Entrees
 Pho'
 Vermicelli
 Pad Thai
-Banh Mi
 Green Curry
-
-
 
 Desserts
 --------
@@ -35,6 +32,28 @@ Drinks
 Beer
 Coca-Cola
 LaCroix
+
+***********************************
+** What would you like to order? **
+***********************************
     """)
+    food_order = input("> ")
+    print(f"** 1 order of {food_order} has been added to your meal **")
+
+    ask_again = True
+    while ask_again:
+        print("Would you like to order other items?")
+        next_order = input("> ")
+        if next_order == "yes":
+            print("What else would you like to order?")
+            more_food = input("> ")
+            print(f"** 1 order of {more_food} has been added to your meal **")
+        else:
+            break
+    # print(f"** Your order is {food_order} and {more_food} **")
 
 menu()
+
+
+
+
