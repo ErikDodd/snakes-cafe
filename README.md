@@ -1,12 +1,12 @@
-#LAB - Class 01
+LAB - Class 01
 Project: Snakes Cafe
 Author: Erik Dodd
 
-##Links and Resources
+Links and Resources:
 
 N/A
 
-##Setup
+Setup:
 
 How to initialize/run your application:
 
